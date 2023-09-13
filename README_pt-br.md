@@ -32,8 +32,8 @@ O usuário deve ser capaz de:
 
 ### Links
 
-- URL da Solução: [URL](https://your-solution-url.com)
-- URL Site: [URL](https://your-live-site-url.com)
+- URL da Solução: [https://github.com/AnaCarol2001/SunnysideAgencyLandingPage](https://github.com/AnaCarol2001/SunnysideAgencyLandingPage)
+- URL Site: [https://anacarol2001.github.io/SunnysideAgencyLandingPage/#](https://anacarol2001.github.io/SunnysideAgencyLandingPage/#)
 
 ## Meu processo
 
