@@ -18,6 +18,7 @@
     --darkGreyishBlue:  hsl(232, 10%, 55%);
     --greyishBlue: hsl(210, 4%, 67%);
     --white: hsl(0, 0%, 100%);
+
     --font-size: 1.125rem;
     --font-title-family: 'Fraunces', serif;;
     --font-text-family: 'Barlow', sans-serif;
@@ -569,7 +570,7 @@ body{
         padding-inline: 0;
     }
 }
-@media (min-width: 1024px){}
+
 
 /*BLOCK: GALLERY*/
 .gallery{
